@@ -1,0 +1,14 @@
+{
+  "pizzas": [
+    {
+      "name": "Margerita",
+      "ingredients": "Sauce tomate, mozza, fromage.",
+      "price": 8.99
+    },
+    {
+      "name": "Regina",
+      "ingredients": "Sauce tomate, mozza, fromage, chambon, champignons.",
+      "price": 8.99
+    }
+  ]
+}
