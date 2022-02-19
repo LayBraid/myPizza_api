@@ -1,14 +1,52 @@
 {
   "pizzas": [
     {
-      "name": "Margerita",
-      "ingredients": "Sauce tomate, mozza, fromage.",
-      "price": 8.99
+      "name": "MARGHERITA",
+      "ingredients": "Sauce tomate bio, mozzarella.",
+      "price": 6.99,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PMAR/FR_PMAR_fr_hero_9166.png?v1532831547"
     },
     {
-      "name": "Regina",
-      "ingredients": "Sauce tomate, mozza, fromage, chambon, champignons.",
-      "price": 8.99
+      "name": "CLASSIQUE JAMBON",
+      "ingredients": "Sauce tomate bio, mozzarella, jambon.",
+      "price": 6.99,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PCJA/FR_PCJA_all_hero_9166.png?v1959816995"
+    },
+    {
+      "name": "CHORIZZA",
+      "ingredients": "Sauce tomate bio, mozzarella, chorizo français, chèvre, olives Kalamata bio.",
+      "price": 11.50,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PCHO/FR_PCHO_fr_hero_9314.png?v777144998"
+    },
+    {
+      "name": "DIAVOLA PEPPERONI",
+      "ingredients": "Sauce tomate bio, mozzarella, pepperoni, duo de poivrons, oignons, piments jalapeños.",
+      "price": 10.00,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PDIP/FR_PDIP_all_hero_9166.png?v-437220117"
+    },
+    {
+      "name": "RACLETTE",
+      "ingredients": "Crème fraîche légère française, mozzarella, bacon, pommes de terre françaises sautées, oignons, raclette française.",
+      "price": 11.50,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PRAC/FR_PRAC_all_hero_9166.png?v-535569263"
+    },
+    {
+      "name": "REINE",
+      "ingredients": "Sauce tomate bio, mozzarella, jambon, champignons de Paris.",
+      "price": 9.00,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PREI/FR_PREI_fr_hero_9166.png?v-396999116"
+    },
+    {
+      "name": "DELUXE",
+      "ingredients": "Sauce tomate bio, mozzarella, boulettes de bœuf assaisonnées**, champignons de Paris, oignons, duo de poivrons.",
+      "price": 10.00,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PDLX/FR_PDLX_all_hero_9166.png?v-1149890043"
+    },
+    {
+      "name": "BACON GROOVY",
+      "ingredients": "Crème fraîche légère française, mozzarella, poulet rôti*, oignons, bacon, sauce barbecue.",
+      "price": 11.50,
+      "urlToImage": "https://commande.dominos.fr/ManagedAssets/FR/product/PBCG/FR_PBCG_all_hero_9166.png?v433156478"
     }
   ]
 }
