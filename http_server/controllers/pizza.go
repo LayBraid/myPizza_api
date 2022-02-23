@@ -5,10 +5,10 @@ import (
 	"api/http_server/routes"
 )
 
-func PizzaControllers() *api.Controller {
-	return &api.Controller{
+func PizzaControllers() api.Controller {
+	return api.Controller{
 		BasePath: "/pizzas",
-		Routes: []*api.Route{
+		Routes: []api.Route{
 			routes.GetPizzas(),
 		},
 	}

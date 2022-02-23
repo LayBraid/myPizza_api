@@ -6,8 +6,8 @@ import (
 
 type App interface {
 	Start() error
-	RegisterRoutes(routes ...*Route)
-	RegisterControllers(controllers ...*Controller)
+	RegisterRoutes(routes ...Route)
+	RegisterControllers(controllers ...Controller)
 }
 
 type HttpApp struct {
@@ -22,5 +22,5 @@ type Route struct {
 
 type Controller struct {
 	BasePath string
-	Routes   []*Route
+	Routes   []Route
 }

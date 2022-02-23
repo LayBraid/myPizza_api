@@ -15,8 +15,8 @@ type Pizza struct {
 	Price       float64 `json:"price"`
 }
 
-func GetPizzas() *api.Route {
-	return &api.Route{
+func GetPizzas() api.Route {
+	return api.Route{
 		Path:   "/get_all",
 		Method: api.GET,
 		Handler: func(c *fiber.Ctx) (err error) {
